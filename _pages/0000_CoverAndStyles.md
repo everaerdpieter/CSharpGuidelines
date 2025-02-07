@@ -16,7 +16,6 @@ for all C# versions up to v10
 </div>
 <br/>
 <div class="author">
-Dennis Doomen<br/>
 Version %semver%<br/>
 %commitdate%
 </div>
